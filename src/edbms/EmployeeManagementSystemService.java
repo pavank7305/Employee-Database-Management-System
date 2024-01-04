@@ -21,5 +21,5 @@ public interface EmployeeManagementSystemService {
 	void getEmployeeWithHighestSalary();
 
 	void getEmployeeWithLowestSalary();
-	
+
 }
